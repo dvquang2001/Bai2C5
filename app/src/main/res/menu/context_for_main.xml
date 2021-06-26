@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuThemNV"
+        android:title="Them nhan vien" />
+    <item
+        android:id="@+id/menuDanhsach"
+        android:title="Danh sach nhan vien" />
+    <item
+        android:id="@+id/menuBauCu"
+        android:title="Lap truong/pho phong" />
+    <item
+        android:id="@+id/menuXoa"
+        android:title="Xoa phong ban" />
+</menu>
